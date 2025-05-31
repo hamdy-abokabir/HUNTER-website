@@ -1,275 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- index.html -->
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
-<head>
-  <meta charset="UTF-8">
-  <title>HUNTER - الرئيسية</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
-  <style>
-    * { box-sizing: border-box; font-family: 'Cairo', sans-serif; }
-    body {
-      margin: 0;
-      background: linear-gradient(to right, #1e1e2f, #2e2e4f);
-      color: #fff;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      padding: 30px;
-    }
-    header {
-      text-align: center;
-      margin-bottom: 40px;
-    }
-    header h1 {
-      font-size: 36px;
-      color: #00bcd4;
-    }
-    nav a {
-      color: #ffeb3b;
-      margin: 10px;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    nav {
-      margin-bottom: 30px;
-    }
-    footer {
-      margin-top: 60px;
-      text-align: center;
-      color: #aaa;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>مرحبًا بك في HUNTER</h1>
-    <p>أقوى مؤسسة في عالم البرمجة، التصميم، والسوشيال ميديا+التسويق +الاستشارات التسويقية + الكتابة +فيديو ايديتور  🔥</p>
-  </header>
-
-  <nav>
-    <a href="services.html">الخدمات</a>
-    <a href="about.html">من نحن</a>
-    <a href="contact.html">تواصل معنا</a>
-  </nav>
-  <footer>
-    <p>جميع الحقوق محفوظة © 2025 - مؤسسة HUNTER</p>
-  </footer>
-</body>
-</html>
-  <url>
-    <loc>https://hamdy-abokabir.github.io/HUNTER-website/</loc>
-    <lastmod>2025-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-<!-- contact.html -->
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
-<head>
-  <meta charset="UTF-8">
-  <title>تواصل معنا - HUNTER</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
-  <style>
-    * { box-sizing: border-box; font-family: 'Cairo', sans-serif; }
-    body {
-      margin: 0;
-      padding: 30px;
-      background: linear-gradient(to right, #1e1e2f, #2e2e4f);
-      color: #fff;
-    }
-    h1 {
-      text-align: center;
-      color: #00bcd4;
-      margin-bottom: 30px;
-    }
-    .contact-box {
-      background: #222;
-      padding: 20px;
-      border-radius: 15px;
-      max-width: 600px;
-      margin: auto;
-      box-shadow: 0 0 10px rgba(0,0,0,0.3);
-      font-size: 18px;
-    }
-    a {
-      color: #4caf50;
-      text-decoration: none;
-    }
-    .back {
-      display: block;
-      margin-top: 20px;
-      text-align: center;
-      color: #ffeb3b;
-    }
-  </style>
-</head>
-<body>
-  <h1>تواصل معنا</h1>
-  <div class="contact-box">
-    <p>
-      📱 عبر الواتساب:  
-      <a href="https://wa.me/201029448695">اضغط هنا</a>
-    </p>
-    <p>
-      📧 عبر البريد الإلكتروني:  
-      <a href="mailto:hunterabikabir2009@mail.com">hunterabikabir2009@mail.com</a>
-    </p>
-  </div>
-
-  <a class="back" href="index.html">← الرجوع للرئيسية</a>
-</body>
-</html>
-  <url>
-    <loc>https://hamdy-abokabir.github.io/HUNTER-website/contact.html</loc>
-    <lastmod>2025-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-<!-- about.html -->
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
-<head>
-  <meta charset="UTF-8">
-  <title>عن HUNTER</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
-  <style>
-    * { box-sizing: border-box; font-family: 'Cairo', sans-serif; }
-    body {
-      margin: 0;
-      padding: 30px;
-      background: linear-gradient(to right, #1e1e2f, #2e2e4f);
-      color: #fff;
-    }
-    h1 {
-      text-align: center;
-      color: #00bcd4;
-      margin-bottom: 30px;
-    }
-    p {
-      font-size: 20px;
-      line-height: 1.8;
-      background: #222;
-      padding: 20px;
-      border-radius: 15px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.3);
-    }
-    a {
-      display: block;
-      margin-top: 20px;
-      color: #ffeb3b;
-      text-align: center;
-      text-decoration: none;
-    }
-  </style>
-</head>
-<body>
-  <h1>من نحن؟</h1>
-  <p>
-    مؤسسة <strong>HUNTER</strong> أسسها <strong>حمدي محمد أبوكبير</strong>، من محافظة <strong>المنيا – مركز ديرمواس – قرية تل بني عمران</strong>.<br><br>
-    هدف المؤسسة هو تقديم خدمات احترافية عالية الجودة في مجالات التصميم، البرمجة، التسويق الرقمي، والمحتوى الإبداعي، مع بناء مجتمع عربي تقني منافس عالميًا.<br><br>
-    نؤمن بأن كل فكرة لها فرصة للنجاح، وكل شغف يستحق أن يتحول لإنجاز حقيقي، لذلك نحن هنا لنقدّم لك القوة اللي تدفعك للنجاح.
-  </p>
-
-  <a href="index.html">← الرجوع للرئيسية</a>
-</body>
-</html>
-  <url>
-    <loc>https://hamdy-abokabir.github.io/HUNTERr-website/حول.html</loc>
-    <lastmod>2025-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-<!-- services.html -->
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
-<head>
-  <meta charset="UTF-8">
-  <title>خدمات HUNTER</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
-  <style>
-    * { box-sizing: border-box; font-family: 'Cairo', sans-serif; }
-    body {
-      margin: 0;
-      padding: 30px;
-      background: linear-gradient(to right, #1e1e2f, #2e2e4f);
-      color: #fff;
-    }
-    h1 {
-      text-align: center;
-      color: #00bcd4;
-      margin-bottom: 30px;
-    }
-    .service {
-      background: #222;
-      padding: 20px;
-      border-radius: 15px;
-      margin-bottom: 20px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.3);
-      transition: transform 0.3s;
-    }
-    .service:hover {
-      transform: scale(1.02);
-    }
-    h2 {
-      color: #ffeb3b;
-    }
-    p {
-      font-size: 18px;
-      line-height: 1.6;
-    }
-    a {
-      color: #4caf50;
-      text-decoration: none;
-    }
-  </style>
-</head>
-<body>
-  <h1>خدماتنا في HUNTER</h1>
-
-  <div class="service">
-    <h2>🎨 التصميمات الجرافيكية</h2>
-    <p>نقدّم تصميم شعارات، بوستات، هويات بصرية، واجهات مواقع، وكل ما يخص الجرافيك العصري الاحترافي.</p>
-  </div>
-
-  <div class="service">
-    <h2>💻 برمجة المواقع والتطبيقات</h2>
-    <p>نبني لك موقع أو تطبيق باحترافية عالية باستخدام أحدث التقنيات والمميزات حسب احتياجك تمامًا.</p>
-  </div>
-
-  <div class="service">
-    <h2>📱 حملات السوشيال ميديا</h2>
-    <p>ندير لك صفحاتك، نصمم المحتوى، ننشر باستمرار، ونرفع التفاعل بمحتوى إبداعي وجذاب.</p>
-  </div>
-
-  <div class="service">
-    <h2>🧠 استشارات تقنية وتسويقية</h2>
-    <p>لو عندك فكرة مشروع، هنساعدك تحوّلها لحقيقة بخطة مدروسة واستراتيجية تسويقية واضحة.</p>
-  </div>
-
-  <div class="service">
-    <h2>🛠 دعم فني وخدمات فورية</h2>
-    <p>حل سريع لأي مشكلة تواجهك سواء في موقع، تطبيق، أو حتى تصميم — دايمًا موجودين في ضهرك.</p>
-  </div>
-
-  <div class="service">
-    <h2>🎯 تطوير الهوية البصرية</h2>
-    <p>بنخلق لهويتك طابع خاص يميزك ويثبت اسمك في السوق بشكل مميز واحترافي.</p>
-  </div>
-
-  <a href="index.html">← الرجوع للرئيسية</a>
-</body>
-</html>
-  <url>
-    <loc>https://hamdy-abokabir.github.io/HUNTER-website/services.html</loc>
-    <lastmod>2025-05-30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-</urlset>
